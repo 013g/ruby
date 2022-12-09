@@ -1,0 +1,13 @@
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\obj\Debug\LogLaplace.csproj.AssemblyReference.cache
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\obj\Debug\LogLaplace.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\obj\Debug\LogLaplace.FormMain.resources
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\obj\Debug\LogLaplace.FormResult.resources
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\obj\Debug\LogLaplace.FormInfo.resources
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\obj\Debug\LogLaplace.csproj.GenerateResource.cache
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\obj\Debug\LogLaplace.csproj.CoreCompileInputs.cache
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\bin\Debug\LogLaplace.exe.config
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\bin\Debug\LogLaplace.exe
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\bin\Debug\LogLaplace.pdb
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\obj\Debug\LogLaplace.Properties.Resources.resources
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\obj\Debug\LogLaplace.exe
+C:\Users\fanat\OneDrive\Документы\курсач\LogLaplace\obj\Debug\LogLaplace.pdb
